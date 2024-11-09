@@ -7,7 +7,7 @@
   
   .app {
     height: 100%;
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('C:\Users\91929\Desktop\fee\walkator-klMii3cR9iI-unsplash.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('./images/walkator-klMii3cR9iI-unsplash.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
